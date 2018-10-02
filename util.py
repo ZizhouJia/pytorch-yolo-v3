@@ -1,7 +1,7 @@
 
 from __future__ import division
 
-import cuda_extension.nms as nms
+import cuda_ext.nms as nms
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
